@@ -10,6 +10,6 @@ You can view live demo in [here](https://mehmetalialpergun.github.io/Frame-Playe
 
 ``` bash
 
-# serve at localhost:8080
+# serve at localhost:8080 run command
 .\serve.sh 8080
 
