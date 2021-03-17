@@ -2,7 +2,7 @@
 Simple video player with jpg frames
 
 # Demo
-You can open demo in [here](https://mehmetalialpergun.github.io/Frame-Player)
+You can view live demo in [here](https://mehmetalialpergun.github.io/Frame-Player)
 
 
 
